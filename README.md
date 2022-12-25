@@ -14,3 +14,4 @@ sh ~/.config/nvim/install.sh
 git -C ~/.config/nvim pull   # or go to ~/.config/nvim and git pull
 sh ~/.config/nvim/install.sh
 ```
+# nvim-
